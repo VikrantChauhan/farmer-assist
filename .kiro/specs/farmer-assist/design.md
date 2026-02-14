@@ -1,8 +1,8 @@
-# Design Document: MANDI-MATE AI
+# Design Document: FARMER-ASSIST AI
 
 ## Overview
 
-MANDI-MATE AI is a comprehensive agricultural platform designed to optimize crop sales through AI-driven insights. The system integrates weather forecasting, harvest planning, farmer aggregation, price prediction, pre-mandi negotiations, sale management, and post-sale analytics into a unified mobile-first platform.
+FARMER-ASSIST AI is a comprehensive agricultural platform designed to optimize crop sales through AI-driven insights. The system integrates weather forecasting, harvest planning, farmer aggregation, price prediction, pre-mandi negotiations, sale management, and post-sale analytics into a unified mobile-first platform.
 
 The architecture follows a microservices approach with clear separation between data ingestion, AI processing, user interfaces, and external integrations. The system prioritizes reliability, scalability, and ease of use for farmers with varying technical literacy levels.
 
@@ -440,7 +440,7 @@ Now I need to use the prework tool to analyze the acceptance criteria before wri
 
 <function_calls>
 <invoke name="prework">
-<parameter name="featureName">mandi-mate-ai
+<parameter name="featureName">FARMER-ASSIST-ai
 
 ## Correctness Properties
 
@@ -638,7 +638,7 @@ The testing strategy employs both unit testing and property-based testing as com
 **Test Configuration**:
 - Minimum 100 iterations per property test to ensure comprehensive input coverage
 - Each property test references its corresponding design document property
-- Tag format: **Feature: mandi-mate-ai, Property {number}: {property_text}**
+- Tag format: **Feature: FARMER-ASSIST-ai, Property {number}: {property_text}**
 
 **Property Test Implementation**:
 - Each of the 28 correctness properties must be implemented as a separate property-based test

@@ -2,11 +2,11 @@
 
 ## Introduction
 
-MANDI-MATE AI is an agricultural platform that helps farmers optimize crop sales through AI-driven insights. The system provides weather alerts, harvest planning, smart aggregation, price predictions, pre-mandi negotiations, sale management, and post-sale analytics to maximize farmer income and reduce agricultural risks.
+FARMER-ASSIST AI is an agricultural platform that helps farmers optimize crop sales through AI-driven insights. The system provides weather alerts, harvest planning, smart aggregation, price predictions, pre-mandi negotiations, sale management, and post-sale analytics to maximize farmer income and reduce agricultural risks.
 
 ## Glossary
 
-- **System**: The MANDI-MATE AI platform
+- **System**: The FARMER-ASSIST AI platform
 - **Farmer**: Agricultural producer using the platform
 - **Mandi**: Agricultural wholesale market
 - **Trader**: Buyer of agricultural produce at mandis
